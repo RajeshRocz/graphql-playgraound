@@ -1,0 +1,4 @@
+type Query{
+sayHello: String!
+sayHelloName(name:String!):String!
+}
